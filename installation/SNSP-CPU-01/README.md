@@ -44,6 +44,9 @@
   ![](./basic_connections.jpg)
 - close _SJ32_ and _SJ61_  
   ![](./jumper.jpg)
+- if using SMR20200323 or later, **one** (but **not** both!) of the _SJ63_ jumpers must be closed for a color carrier signal.
+  - SJ63.1: (marked with a dot) outputs color carrier derived from non-dejittered clock.
+  - SJ63.2: outputs color carrier derived from dejittered clock.
 
 
 
